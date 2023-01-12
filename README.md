@@ -1,2 +1,3 @@
 # TIL
-Cleared Readme File for Later Test Use
+## Python TIL
+[1. Python Track(23/01/12)](https://github.com/Felix0942364/TIL/blob/main/1st_semester_TIL/20230112.md)
