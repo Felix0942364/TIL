@@ -18,8 +18,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9b8f901d7d4d9275",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.15"
+              }
+            }
+          },
+          {
+            "id": "c1b701e8f953e752",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20230228.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20230228.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20230228.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -147,6 +170,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7a8d3b368b0ea81c",
-  "lastOpenFiles": []
+  "active": "c1b701e8f953e752",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "Untitled.md",
+    "PEP8-PythonStyleGuideCS.md"
+  ]
 }
